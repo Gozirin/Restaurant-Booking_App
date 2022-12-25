@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/container_frament.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/content_detail.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/fragment_product_description.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/fragment_product_specification.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/layout_ratings.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/product_description_layout.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/product_details_only.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/product_item_layout.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/product_specification_item.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/products_img_layout.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/rewords_layout.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/section_item.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/menu/menu_detail.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/search_cart_item.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_cart.xml" value="0.1425" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_cart_round.xml" value="0.1425" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1425" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1425" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
