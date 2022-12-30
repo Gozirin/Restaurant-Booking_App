@@ -1,7 +1,7 @@
 Restaurant App
 
 ### This is an E-commerce Application developed in native android using mvvm design pattern and Kotlin
-for meal shopping online.
+for online shopping .
 
 
 <img width="298" alt="Screenshot" src="https://user-images.githubusercontent.com/95639970/209453886-19b461af-7462-41af-bac2-1996b3b32240.png">
